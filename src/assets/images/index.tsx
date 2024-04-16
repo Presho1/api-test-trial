@@ -1,0 +1,10 @@
+export { default as PROFILE} from './profile.png';
+export { default as PROPERTY} from './property.png';
+export { default as PICTURE1} from './kandy.png';
+export { default as PICTURE2} from './Anuradhapura.png';
+export { default as PICTURE3} from './Badulla.png';
+export { default as PICTURE4} from './Colombo.png';
+export { default as PICTURE5} from './Gampaha.png';
+export { default as PICTURE6} from './Jaffna.png';
+export { default as ARTICLE1} from './article1.png';
+export { default as ARTICLE2} from './article2.png';
