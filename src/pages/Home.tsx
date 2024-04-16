@@ -9,7 +9,7 @@ import Locations from "../components/Locations"
 const Home = () => {
   return (
     <>
-    <div className="bg-[url('./home-cover-image.png')] bg-cover pb-[316px]">
+    <div className="bg-[url('/home-cover-image.png')] bg-cover pb-[316px]">
         <div>
             <div className="">
                 <h1 className="text-[64px] font-extrabold leading-[72px] text-center pt-[180px]">Discover Your <span className="text-[#E93740]">Perfect Rental</span></h1>
