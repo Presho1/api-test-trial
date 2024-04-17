@@ -19,14 +19,14 @@ const Header = () => {
         </div>
 
         <div className='flex'>
-            <button className="flex items-center rounded-[45px] px-5 py-2.5 text-[#E93740] text-center font-medium text-[16px] leading-[14px]">
+            <div className="flex items-center px-[30px] py-[15px]">
                 <USER/>
-                Sign in
-            </button>
-            <button className='flex items-center bg-[#E93740] rounded-[45px] px-5 py-2.5 ml-3 text-white text-center font-medium text-[16px] leading-[14px]'>
+                <button className="pl-2  text-[#E93740] text-center font-medium text-[16px] leading-[14px]">Sign in</button>
+            </div>
+            <div className="flex items-center border rounded-[55px] bg-[#E93740] px-[30px] py-[15px]">
                 <PLUS/>
-                Post Listing
-            </button>
+                <button className="pl-2 text-white text-center font-medium text-[16px] leading-[14px]">Post Listing</button>
+            </div>
         </div>
    </div>
     </>

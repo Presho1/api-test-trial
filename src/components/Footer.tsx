@@ -9,11 +9,21 @@ const Footer = () => {
                 <LOGO/>
                 <p className='mb-6 mt-4'> Sri Lanka's first & largest platform designed to create <br/> an online marketplace exclusively for RENT </p>
                 <div className='flex'>
-                    <IGSocial/>
-                    <XSocial/>
-                    <YoutubeSocial/>
-                    <FaceBookSocial/>
-                    <LinkedinSocial/>
+                    <div className="pr-[11px]">
+                        <IGSocial/>
+                    </div>
+                    <div className="pr-[11px]">
+                        <XSocial/>
+                    </div>
+                   <div className="pr-[11px]"> 
+                        <YoutubeSocial/>
+                   </div>
+                    <div className="pr-[11px]">
+                        <FaceBookSocial/>
+                    </div>
+                    <div className="pr-[11px]">
+                        <LinkedinSocial/>
+                    </div>
                 </div>
             </div>
 
