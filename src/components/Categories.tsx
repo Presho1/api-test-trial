@@ -9,23 +9,23 @@ const Categories = () => {
         <DASH/>
       </div>
       <div className="flex justify-center">
-        <div className="flex border rounded-[55px] pl-1 py-2 pr-[38px] mr-[62px]">
+        <div className="flex border rounded-[55px] pl-2 py-2 pr-[38px] mr-[62px]">
           <THUMB_UP/>
           <button className="pl-[20px]">Holiday Rentals</button>
         </div>
-        <div className="flex border rounded-[55px] pl-1 py-2 pr-[38px] mr-[62px]">
+        <div className="flex border rounded-[55px] pl-2 py-2 pr-[38px] mr-[62px]">
           <HOUSE_ICON/>
           <button className="pl-[20px]">Residential Spaces</button>
         </div>
-        <div className="flex border rounded-[55px] pl-1 py-2 pr-[38px] mr-[62px]">
+        <div className="flex border rounded-[55px] pl-2 py-2 pr-[38px] mr-[62px]">
           <EVENT/>
           <button className="pl-[20px]">Event Spaces</button>
         </div>
-        <div className="flex border rounded-[55px] pl-1 py-2 pr-[38px] mr-[62px]">
+        <div className="flex border rounded-[55px] pl-2 py-2 pr-[38px] mr-[62px]">
           <DOLLAR/>
            <button className="pl-[20px]">Commercial Properties</button>
         </div>
-        <div className="flex border rounded-[55px] pl-1 py-2 pr-[38px] mr-[62px]">
+        <div className="flex border rounded-[55px] pl-2 py-2 pr-[38px] mr-[62px]">
           <LOADING_ICON/>
           <button className="pl-[20px]">More</button>
         </div>
