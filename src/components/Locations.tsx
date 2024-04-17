@@ -5,7 +5,7 @@ const Locations = () => {
   return (
     <div>
         <div className="pb-[56px] pt-[100px] grid place-items-center">
-            <h1 className="text-center text-[48px] text-[#1C1C1C] leading-[48px] font-bold pb-[24px]">Featured Locations</h1>
+            <h1 className="text-center text-[48px] font-['Plus Jakarta Sans'] text-[#1C1C1C] leading-[48px] font-bold pb-[24px]">Featured Locations</h1>
             <DASH/>
       </div>
       <div className="grid grid-cols-4 px-4 gap-[39px]">
